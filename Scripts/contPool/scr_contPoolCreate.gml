@@ -12,7 +12,7 @@ global.maxcharge = 15;
 global.turn = 0; //0=P1, 1=P2
 global.whiteFirstTouch = 0; //0=none, 1=blue, 2=red, 3=black
 global.P1col = 0; //0 = not set, 1=blue, 2=red
-for (i=0; i<=3 i+=1){
+for (i=0; i<=3; i+=1){
     global.numberPotted[i] = 0;
     global.justPotted[i] = 0;
 }
