@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="scr_mainMenuDraw" type="RESOURCE"/>
+  <resource name="scr_mainMenuStep" type="RESOURCE"/>
+  <resource name="scr_mainMenuCreate" type="RESOURCE"/>
+</resources>

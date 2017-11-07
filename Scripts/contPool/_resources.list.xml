@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="scr_contPoolCreate" type="RESOURCE"/>
+  <resource name="scr_contPoolDraw" type="RESOURCE"/>
+  <resource name="scr_contPoolStep" type="RESOURCE"/>
+  <resource name="scr_poolMouseClickButtons" type="RESOURCE"/>
+  <resource name="nextTurn" type="GROUP"/>
+</resources>

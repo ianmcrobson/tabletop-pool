@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="scr_nextTurnStart" type="RESOURCE"/>
+  <resource name="scr_ballColourAssign" type="RESOURCE"/>
+  <resource name="scr_victoryOccurred" type="RESOURCE"/>
+  <resource name="fouls" type="GROUP"/>
+  <resource name="blackWhiteReplace" type="GROUP"/>
+</resources>

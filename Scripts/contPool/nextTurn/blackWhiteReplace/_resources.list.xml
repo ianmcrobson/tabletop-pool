@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="scr_whiteReplace" type="RESOURCE"/>
+  <resource name="scr_blackReplace" type="RESOURCE"/>
+  <resource name="scr_ballReplacement" type="RESOURCE"/>
+</resources>

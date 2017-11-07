@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="scr_allBallCreate" type="RESOURCE"/>
+  <resource name="whiteBall" type="GROUP"/>
+  <resource name="scr_allBallStep" type="RESOURCE"/>
+  <resource name="scr_allBallCollision" type="RESOURCE"/>
+  <resource name="scr_calculateNewVelocities" type="RESOURCE"/>
+  <resource name="scr_ballPocketHit" type="RESOURCE"/>
+  <resource name="scr_ballSolidHit" type="RESOURCE"/>
+</resources>

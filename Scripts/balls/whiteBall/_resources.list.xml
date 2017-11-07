@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="scr_whiteBallCreate" type="RESOURCE"/>
+  <resource name="scr_whiteBallStep" type="RESOURCE"/>
+  <resource name="scr_checkKeyboardInputs" type="RESOURCE"/>
+  <resource name="scr_whiteBallCollision" type="RESOURCE"/>
+</resources>
